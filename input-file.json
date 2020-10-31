@@ -1,0 +1,44 @@
+{
+    "productList": [
+        {
+            "p_code": "Fitbit Plus",
+            "prise": 7980
+        },
+        {
+            "p_code": "IPods",
+            "prise": 22349
+        },
+        {
+            "p_code": "MI Band",
+            "prise": 999
+        },
+        {
+            "p_code": "Cult Pass",
+            "prise": 2799
+        },
+        {
+            "p_code": "Macbook Pro",
+            "prise": 229900
+        },
+        {
+            "p_code": "Digital Camera",
+            "prise": 11101
+        },
+        {
+            "p_code": "Alexa",
+            "prise": 9999
+        },
+        {
+            "p_code": "Sandwich Toaster",
+            "prise": 2195
+        },
+        {
+            "p_code": "Microwave Oven",
+            "prise": 9800
+        },
+        {
+            "p_code": "Scale",
+            "prise": 4999
+        }
+    ]
+}
